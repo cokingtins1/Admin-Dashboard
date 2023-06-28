@@ -137,6 +137,14 @@ li.side-icon:hover{
   
 }
 
+.trend-container{
+  background-color: red;
+  grid-row: 3 / 12;
+  grid-column: 1 / -1;
+}
+
+
+
 
 /* HEADER------------------------------------ */
 .header{
